@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ido V. Z.
-- 👀 I’m interested in AI, Machine learning, Web development, Simulations and Game development.
-- 🌱 I’m currently learning Neural Networks, and prodactivity tools.
-- 🤝 I would like join a game development team as a programer.
+- 👀 I’m interested in AI, Machine learning, Web + Mobile development, Simulations and Game development.
+- 🌱 I’m currently working on a project for my dad, A mobile app I call "Alarm Check"
+- 🤝 Currently I'm not flexible enough to work on a big project with someone but I would like to do it in the future.
 - 📫 You can send me a massege via email: programerido@gmail.com
 
 <!---
